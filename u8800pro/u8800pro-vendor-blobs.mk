@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8800pro/proprietary/bin/akmd8975:system/bin/akmd8975 \
     vendor/huawei/u8800pro/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
     vendor/huawei/u8800pro/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
+    vendor/huawei/u8800pro/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/huawei/u8800pro/proprietary/bin/compassd:system/bin/compassd \
     vendor/huawei/u8800pro/proprietary/bin/cust:system/bin/cust \
     vendor/huawei/u8800pro/proprietary/bin/hciattach:system/bin/hciattach \
